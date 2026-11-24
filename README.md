@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Build a fortress and try to help your dwarves survive against a deeply generated world. Keep your dwarves happy, grow their community and beware of digging too deeply. The deepest, most intricate simulation of a world that's ever been created.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,12 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | XP SP3 or later | macOS 11.0 or later |
+| **Processor** | Min: Dual Core CPU - 2.4GHz+ / Rec: Dual Core CPU - 4GHz+ | Intel Core i5 / Apple M1 |
+| **Memory** | 4 GB RAM | 4 GB RAM |
+| **Graphics** | 1GB of VRAM: Intel HD 3000 GPU / AMD HD 5450 / Nvidia 9… | Metal-capable GPU |
+| **Storage** | 500 MB available space | 500 MB available space |
+| **Additional Notes** | Requires 64 bit processor and operating system | Requires 64 bit processor and operating system |
 
 ---
 
